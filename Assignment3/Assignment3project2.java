@@ -24,7 +24,6 @@ public class Assignment3project2 {
     
     public void info(int age){
         
-        boolean isValidated=true;
         
        if(age>3 && age<15)
        {

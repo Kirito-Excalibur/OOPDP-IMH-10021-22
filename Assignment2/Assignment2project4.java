@@ -1,5 +1,3 @@
-package Assignment2;
-
 import java.util.Scanner;
 
 public class Assignment2project4 {
