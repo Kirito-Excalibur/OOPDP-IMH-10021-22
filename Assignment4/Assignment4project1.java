@@ -1,3 +1,5 @@
+import Assignment10.Employee;
+
 class Employee{
     int Employee_id;
     String Employee_name;
